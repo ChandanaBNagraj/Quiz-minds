@@ -50,7 +50,9 @@ span.psw {
 </style>
 </head>
 <body>
-	<h1>Book Store</h1>
+	<center><h1>Quiz-Minds</h1></center>
+	<center><h2>Welcome!</h2></center>
+<center><h3>Ready for Knowledge check ?</h3></center>
 	<form action="Login" method="post">
 	  <div class="container" >
 	    <label><b>Email</b></label>
@@ -63,7 +65,7 @@ span.psw {
 	  </div>
 	
 	  <div class="container" style="background-color:#f1f1f1">
-	    <span class="psw"><a href="forgotpassword.jsp">Forgot password?</a>&nbsp &nbsp <a href="register.jsp" id="register">New User ?</a> </span>
+		  <center><span class="psw"><a href="forgotpassword.jsp">Forgot password?</a>&nbsp &nbsp <a href="register.jsp" id="register">New User ?</a> </span></center>
 	  </div>
 </form>
 </body>
