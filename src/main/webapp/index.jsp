@@ -51,7 +51,7 @@ span.psw {
 </head>
 <body>
 	<center><h1>Quiz-Minds</h1></center>
-	<center><h2>Welcome!</h2></center>
+	<center><h2>Welcome! to quiz app</h2></center>
 <center><h3>Ready for Knowledge check ?</h3></center>
 	<form action="Login" method="post">
 	  <div class="container" >
